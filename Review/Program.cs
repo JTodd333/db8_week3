@@ -13,7 +13,7 @@ Console.WriteLine(goagain);
 
 //
 //Integers (int)
-//Roughly four billion opssible choices
+//Roughly four billion possible choices
 Console.WriteLine();
 Console.WriteLine("Integer tests");
 int count = 10;
@@ -28,15 +28,15 @@ Console.WriteLine(count);  //Expect 22
 
 //
 //Single character (char)
-//We use thie single quotes around it, and only one characters
-//(Don't need to know this for assessment: These are "inucode" characters. You can google it)
+//We use the single quotes around it, and only one character.
+//(Don't need to know this for assessment: These are "unicode" characters. You can google it)
 Console.WriteLine();
 Console.WriteLine("Character tests");
 char ch = 'A';
 Console.WriteLine(ch);
 ch = '[';
 Console.WriteLine(ch);
-//Did a exactly of unicode character but the console doesnt handle it. 
+//Did a example of unicode character but the console doesnt handle it to show properly. 
 
 //
 //Floating Point Characters (double, float)
