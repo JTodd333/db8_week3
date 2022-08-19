@@ -38,6 +38,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieDatabaseJeffVersion", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises", "Exercises\Exercises.csproj", "{333F5761-267D-4FED-A57A-F9DC7668AF81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assessment3", "Assessment3\Assessment3.csproj", "{CC27A507-16E1-426F-AC60-D9D48A358865}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +106,10 @@ Global
 		{333F5761-267D-4FED-A57A-F9DC7668AF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{333F5761-267D-4FED-A57A-F9DC7668AF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{333F5761-267D-4FED-A57A-F9DC7668AF81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC27A507-16E1-426F-AC60-D9D48A358865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC27A507-16E1-426F-AC60-D9D48A358865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC27A507-16E1-426F-AC60-D9D48A358865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC27A507-16E1-426F-AC60-D9D48A358865}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

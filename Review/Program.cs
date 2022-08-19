@@ -127,7 +127,7 @@ Console.WriteLine(words);
 
 //
 // Lists
-// (This is a great example, toegther with the Rectangle Class!!!)
+// (This is a great example, together with the Rectangle Class!!!)
 // Make sure you really understand EVERYTHING in this section
 //
 
@@ -136,7 +136,7 @@ Console.WriteLine("List Tests (and class instances and ToString)");
 List<Rectangle> mylist = new List<Rectangle>();
 mylist.Add(new Rectangle("First", 10.5, 20.6));
 mylist.Add(new Rectangle("Second", 25.6, 13.2));
-mylist.Add(new Rectangle("FThird", 12.9, 11.3));
+mylist.Add(new Rectangle("Third", 12.9, 11.3));
 
 foreach (Rectangle rect in mylist)
 {
